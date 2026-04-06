@@ -102,7 +102,7 @@ Los requisitos no funcionales describen características de calidad del sistema.
   	Entrega final y sustentación — Entregamos el proyecto completo y respondemos las preguntas del profe sobre cómo lo hicimos y cómo funciona.
 ![Logo](https://github.com/sofia-ocampom/SM-Prestium-/blob/main/Image/WhatsApp%20Image%202026-04-05%20at%204.01.31%20PM.jpeg)
  ## Presupuesto del trabajo
- ![Logo](https://github.com/sofia-ocampom/SM-Prestium-/blob/main/Image/WhatsApp%20Image%202026-04-05%20at%206.46.56%20PM.jpeg)
+![Logo](https://github.com/sofia-ocampom/SM-Prestium-/blob/main/Image/WhatsApp%20Image%202026-04-05%20at%206.46.56%20PM.jpeg)
 ![Logo](https://github.com/sofia-ocampom/SM-Prestium-/blob/main/Image/WhatsApp%20Image%202026-04-05%20at%207.44.32%20PM.jpeg)
 
 
