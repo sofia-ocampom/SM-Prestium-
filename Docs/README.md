@@ -103,7 +103,9 @@ Los requisitos no funcionales describen características de calidad del sistema.
 ![Logo](https://github.com/sofia-ocampom/SM-Prestium-/blob/main/Image/WhatsApp%20Image%202026-04-05%20at%204.01.31%20PM.jpeg)
  ## Presupuesto del trabajo
  ![Logo](https://github.com/sofia-ocampom/SM-Prestium-/blob/main/Image/WhatsApp%20Image%202026-04-05%20at%206.46.56%20PM.jpeg)
+![Logo](https://github.com/sofia-ocampom/SM-Prestium-/blob/main/Image/WhatsApp%20Image%202026-04-05%20at%207.44.32%20PM.jpeg)
 
- #Licencia
+
+ # Licencia
  
  <a href="https://github.com/sofia-ocampom/SM-Prestium-">SM Prestium</a> © 2026 by <a href="https://github.com/sofia-ocampom">Sofia Ocampo, Mariana Higuita, Mariana Carvajal</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
