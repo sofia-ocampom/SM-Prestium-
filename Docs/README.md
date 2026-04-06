@@ -7,14 +7,17 @@ SM Prestium es un software que permite gestionar el préstamo de objetos entre p
 
 ## Integrantes 
 
-- Sofia Ocampo 
+- *Sofia Ocampo* 
 
-Estudiante de Ingenieria Industrial es una persona con rasgos de liderazgo, apasionada por cada cosa que hace, tiende a frustrarse si algo no sale bien pero siempre busca como resolver un problema.
+> Estudiante de Ingenieria Industrial es una persona con rasgos de liderazgo, apasionada por cada cosa que hace, tiende a frustrarse si algo no sale bien pero siempre busca como resolver un problema.
 
-- Mariana Carvajal
+- *Mariana Carvajal*
 
-Estudiante de Ingenieria Industrial es una persona directa y clara al momento de comunicar, soy exigente, persistente y le gusta estar mejorando siempre en lo que hace. 
+> Estudiante de Ingenieria Industrial es una persona directa y clara al momento de comunicar, soy exigente, persistente y le gusta estar mejorando siempre en lo que hace. 
 
+- *Mariana Higuita*
+
+> Estudiante de ingeniería industrial, comprometida con sus trabajos, le gusta trabajar en equipo y aportar para que las cosas salgan bien, dispuesta a escuchar para crecer y aprender más.
 
 # Reporte de vision
  Sm Prestium busca convertirse en una herramienta sencilla, organizada y confiable que permita administrar el préstamo de objetos entre personas de manera eficiente. Está diseñado para controlar múltiples préstamos sin depender de registros manuales o de la memoria.
@@ -63,3 +66,40 @@ Los requisitos no funcionales describen características de calidad del sistema.
 - La información registrada debe almacenarse en archivos planos para permitir su consulta posterior.
 - El sistema debe generar mensajes claros y descriptivos para orientar al usuario durante su uso.
 - El sistema debe validar correctamente los datos ingresados.
+ # Plan de proyecto
+  ## Descripcion Actividades 
+  - Semana 1:
+ 	Integrantes y vínculos académicos — Escribimos quiénes somos, a qué carrera pertenecemos y contamos un poco de nosotras, nuestras habilidades y en qué somos buenas
+		Nombre del proyecto, foto y licencia — Le pusimos nombre al programa, buscamos una imagen que lo represente y definimos bajo qué licencia lo vamos a registrar.
+ - Semana 2: 
+ 	Reporte de visión — Explicamos de qué trata el programa, para qué sirve y por qué sería útil usarlo.
+- Semana 3:
+  Reporte de visión — Revisamos y ajustamos lo que escribimos
+  	Especificación de requisitos — Escribimos todo lo que el programa debe poder hacer y cómo debe comportarse mientras se usa.
+- Semana 4:
+  	Plan de proyecto — Empezamos a organizar las actividades en el tiempo y a calcular cuántas vamos a invertir en el proyecto.
+- Semanas 5 y 6:
+  	Plan de proyecto — Terminamos el cronograma con todas las actividades repartidas en las 16 semanas del semestre.
+- Semanas 6 y 7:
+  	Plan de versionado — Iniciaremos el registro a los cambios del programa mientras trabajamos en ellos.
+- Semanas 7 y 8:
+  	Revisión y entrega 1 — Revisamos todo lo que hicimos, le hacemos los arreglos que hagan falta y lo subimos a GitHub para la primera entrega.
+- Semanas 9 y 10:
+  	Módulo de usuarios — Programaremos la parte donde se registran los amigos de MJ, con sus datos.
+  	Módulo de ítems — Programaremos el registro de los artículos prestados, con su categoría, precio y una nota sobre el estado en que están.
+- Semanas 11 y 12:
+  	Módulo de préstamos y devoluciones — Programaremos la parte donde se registra qué se prestó, a quién y cuándo, y también cuando lo devuelven.
+  	Módulo de facturación — Programaremos lo que pasa cuando alguien se pasa del mes sin devolver: el programa genera automáticamente una factura de cobro con el impuesto incluido.
+- Semana 13:
+  	Módulo administrador — Programaremos el acceso especial con usuario y contraseña donde se pueden ver los reportes y estadísticas del sistema.
+  	Pruebas — Unimos todo el programa y lo probamos para ver qué está fallando y que mejoras le podremos realizar.
+- Semana 14:
+  	Correcciones — Arreglaremos los errores que encontramos y haremos más pruebas para asegurarnos que todo funcione bien.
+  	Manual de usuario — Escribiremos una guía explicando cómo usar el programa paso a paso y la subimos al repositorio.
+- Semana 15:
+  	GitHub final — Organizaremos bien el repositorio, revisamos que esté todo en su lugar y lo dejamos listo para entregar.
+- Semana 16:
+  	Entrega final y sustentación — Entregamos el proyecto completo y respondemos las preguntas del profe sobre cómo lo hicimos y cómo funciona.
+![Logo](https://github.com/sofia-ocampom/SM-Prestium-/blob/main/Image/WhatsApp%20Image%202026-04-05%20at%204.01.31%20PM.jpeg)
+ ## Presupuesto del trabajo
+ 
