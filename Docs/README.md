@@ -1,11 +1,11 @@
 ![Logo](https://cdni.iconscout.com/illustration/premium/thumb/businesswoman-payday-loan-illustration-svg-download-png-11691324.png)
 
-# SM PRESTIUM
+# SM PRESTIUM 💕💕
 
 SM Prestium es un software que permite gestionar el préstamo de objetos entre personas de manera organizada, segura y eficiente. El sistema facilita el registro de usuarios, artículos, préstamos, devoluciones y ventas automáticas cuando no se cumplen los tiempos establecidos, ayudando a mejorar el control del inventario y reducir la pérdida de objetos.
 
 
-## Integrantes 
+## Integrantes🙎‍♀️🙎‍♀️🙎‍♀️ 
 
 - *Sofia Ocampo* 
 
@@ -102,4 +102,8 @@ Los requisitos no funcionales describen características de calidad del sistema.
   	Entrega final y sustentación — Entregamos el proyecto completo y respondemos las preguntas del profe sobre cómo lo hicimos y cómo funciona.
 ![Logo](https://github.com/sofia-ocampom/SM-Prestium-/blob/main/Image/WhatsApp%20Image%202026-04-05%20at%204.01.31%20PM.jpeg)
  ## Presupuesto del trabajo
+ ![Logo](https://github.com/sofia-ocampom/SM-Prestium-/blob/main/Image/WhatsApp%20Image%202026-04-05%20at%206.46.56%20PM.jpeg)
+
+ #Licencia
  
+ <a href="https://github.com/sofia-ocampom/SM-Prestium-">SM Prestium</a> © 2026 by <a href="https://github.com/sofia-ocampom">Sofia Ocampo, Mariana Higuita, Mariana Carvajal</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
