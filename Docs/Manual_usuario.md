@@ -4,6 +4,7 @@ Describiremos paso a paso las acciones que podrás realizar en el programa.
 ## 🏠 Menú principal
 Al iniciar el programa aparecerá un menú como este:
 
+![logo]Image/Inicio.png
 
 Escribe el **número** de la opción que desees y presiona **Enter**.
 
