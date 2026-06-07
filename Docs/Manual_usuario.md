@@ -4,3 +4,27 @@ Describiremos paso a paso las acciones que podrás realizar en el programa.
 ## 🏠 Menú principal
 Al iniciar el programa aparecerá un menú como este:
 
+
+Escribe el **número** de la opción que desees y presiona **Enter**.
+
+## 1. Registrar Usuario
+
+Esta opción guarda la información de una persona, es obligatorio registrar un usuario para poder realizar tu prestamo.
+
+### Pasos:
+
+1. Selecciona la opción **1** en el menú.
+2. El programa te pedirá los siguientes datos:
+
+| Campo | Reglas |
+|-------|--------|
+| **Nombre** | Mínimo 3 letras. No puede contener números. |
+| **Apellido** | Mínimo 3 letras. No puede contener números. |
+| **Documento** | Solo números. Entre 3 y 15 dígitos. |
+| **Correo electrónico** | Debe contener `@` y terminar en `.com` |
+| **Tiempo de préstamo** | Solo se permiten: `5`, `10`, `15` o `30` días |
+
+3. Si ingresas un dato incorrecto, el programa te avisará y te pedirá que lo vuelvas a escribir.
+4. Cuando todos los datos sean correctos, el usuario quedará registrado.
+
+### Ejemplo de ingreso correcto:
