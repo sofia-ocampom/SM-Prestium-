@@ -15,7 +15,7 @@ Esta opción guarda la información de una persona, es obligatorio registrar un 
 ### Pasos:
 
 1. Selecciona la opción **1** en el menú.
-2. El programa te pedirá los siguientes datos:
+2. El programa pedira los siguientes datos:
 
 | Campo | Reglas |
 |-------|--------|
@@ -25,7 +25,15 @@ Esta opción guarda la información de una persona, es obligatorio registrar un 
 | **Correo electrónico** | Debe contener `@` y terminar en `.com` |
 | **Tiempo de préstamo** | Solo se permiten: `5`, `10`, `15` o `30` días |
 
-3. Si ingresas un dato incorrecto, el programa te avisará y te pedirá que lo vuelvas a escribir.
-4. Cuando todos los datos sean correctos, el usuario quedará registrado.
+3. Si ingresas un dato incorrecto, el programa se reiniciará y podras comenzar de nuevo.
+5. Cuando todos los datos sean correctos, tu usuario quedará registrado correctamente.
 
 ### Ejemplo de ingreso correcto:
+
+-Nombre: Laura
+-Apellido: Gomez
+-Documento: 1020304050
+-Correo: laura@gmail.com
+-Dias prestamo: 15
+
+
