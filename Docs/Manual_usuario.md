@@ -54,7 +54,7 @@ Agrega un objeto al inventario para que pueda ser prestado.
 2. Deberas escoger la categoria a la que pertenecera el item:
    -   Videojuegos
    -   Libros
-   -   lectronica
+   -   Electronica
    -   Hogar
    -   Otros
 
