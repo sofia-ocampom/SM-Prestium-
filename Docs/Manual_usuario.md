@@ -4,7 +4,7 @@ Describiremos paso a paso las acciones que podrás realizar en el programa.
 ## Menú principal
 Al iniciar el programa aparecerá un menú como este:
 
-![logo]Image/Inicio.png
+![logo](https://github.com/sofia-ocampom/SM-Prestium-/blob/main/Image/image.png)
 
 Escribe el **número** de la opción que desees y presiona **Enter**.
 
@@ -24,7 +24,7 @@ Esta opción guarda la información de una persona, es obligatorio registrar un 
 | **Nombre** | Mínimo 3 letras. No puede contener números. |
 | **Apellido** | Mínimo 3 letras. No puede contener números. |
 | **Documento** | Solo números. Entre 3 y 15 dígitos. |
-| **Correo electrónico** | Debe contener `@` y terminar en `.com` |
+| **Correo electrónico** | Debe contener `@`  |
 | **Tiempo de préstamo** | Solo se permiten: `5`, `10`, `15` o `30` días |
 
 3. Si ingresas un dato incorrecto, el programa se reiniciará y podras comenzar de nuevo.
